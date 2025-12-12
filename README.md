@@ -10,5 +10,5 @@
 
 <h1 align="center">How to download the template?</h1>
 <h2>1. Click the Release and click the v1.0.0-GenerateRoomsTemplates. </h2>
-<h2>2. Whedn you finish download, click the folder that you just download, and that will be bring you to the Roblox Studio.</h2>
+<h2>2. When you finish download, click the folder that you just download, and that will be bring you to the Roblox Studio.</h2>
 <h2>3. When that loading finish, you can change anyrooms you want.</h2>
